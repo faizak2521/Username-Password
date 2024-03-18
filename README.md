@@ -1,3 +1,5 @@
+```
+
 # Username-Password
 Safe Password and Username Creator 
 # Project: Username and Password Generator and Validator
@@ -53,3 +55,5 @@ print(f"\tUsername: {username} "
       f"\n\tPassword: {password} "
       f"\n\033[32mValidated\033[0m")
 print("\nThank you for using this app!")
+
+```
